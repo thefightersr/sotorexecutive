@@ -63,6 +63,10 @@ h3{margin:0 0 6px;font-size:18px;font-weight:600;letter-spacing:-.01em}
 .foot-wa svg{width:16px;height:16px;color:#25d366}
 .link{background:none;border:0;padding:10px 0;font:inherit;font-size:14px;color:var(--muted);text-decoration:underline;text-underline-offset:4px;cursor:pointer}
 .link:hover{color:var(--text)}
+.link{display:inline-flex;align-items:center;gap:8px}
+.link svg{width:15px;height:15px;color:var(--gold)}
+.foot-mail{display:inline-flex;align-items:center;gap:8px}
+.foot-mail svg{width:16px;height:16px;color:var(--gold)}
 
 /* ---------- Header ---------- */
 .top{position:fixed;inset:0 0 auto;z-index:40;transition:background .35s,border-color .35s,backdrop-filter .35s;border-bottom:1px solid transparent}
