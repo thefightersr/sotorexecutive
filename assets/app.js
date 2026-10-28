@@ -1,4 +1,4 @@
-// Soto Ramirez Transporte — interactions
+// SotoR Executive — interactions
 (() => {
   const WHATSAPP = '41772270476'; // digits only, no "+" or spaces
   const EMAIL = 'antonysoto_04@hotmail.com';
